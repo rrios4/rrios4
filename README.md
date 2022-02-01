@@ -5,7 +5,7 @@
 ![Followers](https://img.shields.io/github/followers/rrios4?style=for-the-badge)
 
 
-## I'm a IT Application Developer
+## I'm an IT Application Developer!
 
 - 🔭 I’m currently working on a Full-Stack Web Application for Cooper Machinery Services Company in React
 - 🌱 I’m currently learning everything 🤣
