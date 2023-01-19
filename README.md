@@ -1,10 +1,10 @@
 Hi 👋 My name is Rogelio Rios
 =============================
 
-Full-Stack Developer -- I create apps to boost productivity
+I'm a software engineer, product designer, and maker. 
 -----------------------------------------------------------
 
-I went to the University of Houston, where I learned to create full-stack web application for real life clients that helped improve their business workflows. Learned to understand Relational/Non-Relational Databases, project management, SDLC development, system analysis and cloud infastructure. Used languages such as Java or Javascript to build the application for the clients. This is the field I want to be in where I want to learn and get better at since I enjoy it so much. ✌️
+I graduated from the University of Houston with a degree in Computer Information Systems, where I gained experience in building full-stack web applications for real-world clients. I learned to understand and work with both relational and non-relational databases, project management, software development life cycle (SDLC), system analysis, and cloud infrastructure. I am proficient in programming languages such as Java and JavaScript, which I have used to create custom applications to improve clients' business workflows. I am passionate about this field and I am eager to continue learning and expanding my skills in software engineering. ✌️
 
 * 🌍  I'm based in Houston, TX
 * 🖥️  See my portfolio at [Vercel](http://portfolio-v2-omega-peach.vercel.app/)
@@ -14,22 +14,25 @@ I went to the University of Houston, where I learned to create full-stack web ap
 * 🤝  I'm open to collaborating on any project that deals with React.js
 * ⚡  Love to play video games, stock trade, watch shows/movies and working out.
 
-<a href="https://www.github.com/rrios4" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rrios4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/simplynex" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/simplynex?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/rrios4" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/rrios4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<a href="https://www.twitch.tv/rivershuh" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitch/status/simplynex?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
+</a>
 
 ### Skills
 
 <p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
