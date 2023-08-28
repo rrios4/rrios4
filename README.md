@@ -7,9 +7,9 @@ I'm a software engineer, product designer, and maker.
 I graduated from the University of Houston with a degree in Computer Information Systems, where I gained experience in building full-stack web applications for real-world clients. I learned to understand and work with both relational and non-relational databases, project management, software development life cycle (SDLC), system analysis, and cloud infrastructure. I am proficient in programming languages such as Java and JavaScript, which I have used to create custom applications to improve clients' business workflows. I am passionate about this field and I am eager to continue learning and expanding my skills in software engineering. ✌️
 
 * 🌍  I'm based in Houston, TX
-* 🖥️  See my portfolio at [Vercel](http://portfolio-v2-omega-peach.vercel.app/)
+* 🖥️  See my portfolio at [Vercel](https://rriosoriginals-site.vercel.app/)
 * ✉️  You can contact me at [rogeliorios348@gmail.com](mailto:rogeliorios348@gmail.com)
-* 🚀  I'm currently working on [Roofing Webapp v2.0](http://github.com/rrios4/roofing-webapp)
+* 🚀  I'm currently working on [The Roofing App](http://github.com/rrios4/roofing-webapp)
 * 🧠  I'm learning to improve my technical skills at frontend development
 * 🤝  I'm open to collaborating on any project that deals with React.js
 * ⚡  Love to play video games, stock trade, watch shows/movies and working out.
