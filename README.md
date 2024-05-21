@@ -1,3 +1,4 @@
+<!--
 Hi 👋 My name is Rogelio Rios
 =============================
 
@@ -5,12 +6,31 @@ I'm a software engineer, product designer, and maker.
 -----------------------------------------------------------
 
 I graduated from the University of Houston with a degree in Computer Information Systems, where I gained experience in building full-stack web applications for real-world clients. I learned to understand and work with both relational and non-relational databases, project management, software development life cycle (SDLC), system analysis, and cloud infrastructure. I am proficient in programming languages such as Java and JavaScript, which I have used to create custom applications to improve clients' business workflows. I am passionate about this field and I am eager to continue learning and expanding my skills in software engineering. ✌️
+-->
+
+## Hello, I'm Rogelio! 👋
+I'm a passionate software engineer with a degree in Computer Information Systems from the University of Houston. My journey in technology has been driven by a love for creating impactful solutions and a relentless desire to learn and grow in this ever-evolving field.
+
+### What I Do
+<!-- - Enterprise Software Solutions: I've developed robust software solutions for enterprise clients, enhancing their operational efficiency and meeting complex business requirements. -->
+- Full-Stack Web Development: I have hands-on experience in building full-stack web applications, utilizing both relational and non-relational databases to deliver scalable and efficient solutions.
+- Serverless Applications: Automating daily tasks through serverless applications has been a key part of my work, streamlining workflows and improving productivity for clients.
+- Project Leadership: Leading teams and managing projects through the software development life cycle (SDLC) has honed my skills in project management and system analysis.
+- Legacy Systems: I'm adept at updating and rebuilding legacy applications, ensuring they meet modern standards and performance expectations.
+- UI Library Development: Currently, I am building a UI library for the University of Houston, aiming to provide reusable and efficient components for web applications.
+
+### Technical Skills
+- Languages: JavaScript/TypeScript, Java and currently diving into C# with ASP.NET for backend development.
+- Technologies: Proficient in cloud infrastructure, experienced in both relational and non-relational databases, and utilizing CI/CD with Azure DevOps to accelerate development processes.
+- Methodologies: Strong understanding of project management principles and the software development life cycle (SDLC).
+
+I am continually exploring new technologies and methodologies to enhance my skills and deliver better solutions. Let's connect and create something amazing together! ✌️
 
 * 🌍  I'm based in Houston, TX
-* 🖥️  See my portfolio at [Vercel](https://rriosoriginals-site.vercel.app/)
+* 🖥️  See my portfolio at [here](https://rriosoriginals-site.vercel.app/)
 * ✉️  You can contact me at [rogeliorios348@gmail.com](mailto:rogeliorios348@gmail.com)
-* 🚀  I'm currently working on [The Roofing App](http://github.com/rrios4/roofing-webapp)
-* 🧠  I'm learning to improve my technical skills at frontend development
+* 🚀  I'm currently working on [rrios4/roofing-webapp](http://github.com/rrios4/roofing-webapp) and [uhcougarnet/ui](https://github.com/uhcougarnet/ui)
+* 🧠  I'm learning to improve my technical skills at data structure & algorithms.
 * 🤝  I'm open to collaborating on any project that deals with React.js
 * ⚡  Love to play video games, stock trade, watch shows/movies and working out.
 
@@ -21,6 +41,7 @@ I graduated from the University of Houston with a degree in Computer Information
 <img src="https://img.shields.io/twitch/status/simplynex?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
 </a>
 
+<!--
 ### Skills
 
 <p align="left">
@@ -50,12 +71,13 @@ I graduated from the University of Houston with a degree in Computer Information
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+-->
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rrios4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rivershuh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rrios4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/simplynex" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -63,6 +85,7 @@ I graduated from the University of Houston with a degree in Computer Information
 <a href="http://www.github.com/rrios4"><img src="https://github-readme-stats.vercel.app/api?username=rrios4&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rrios4's GitHub stats" /></a>
 
 <a href="http://www.github.com/rrios4"><img src="https://activity-graph.herokuapp.com/graph?username=rrios4&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+-->
 
 ### Support Me
 
